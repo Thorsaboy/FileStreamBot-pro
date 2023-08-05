@@ -1,3 +1,11 @@
+
+<a href="https://render.com/deploy?repo=https://github.com/Thorsaboy/FileStreamBot-pro">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
+
+
+
 ![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
 ![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
