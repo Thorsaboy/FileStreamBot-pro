@@ -18,14 +18,10 @@ services:
         sync: false
       - key: OWNER_USERNAME
         sync: false
-        
       - key: DATABASE_URI
-        sync: false
-        
+        sync: false     
       - key: BIN_ChANNEL
         sync: false
-     
-   
-      -key: FQDN
+      - key: FQDN
        sync: false
     autoDeploy: true
