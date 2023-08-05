@@ -22,8 +22,8 @@
    </strong></a>
     <br />
     <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
-    |
-    <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
+    
+    <a href="https://github.com/Thorsaboy/FileStreamBot-pro/issues">Request Feature</a>
   </p>
 
 
@@ -88,7 +88,7 @@
   You should make sure you have Python 3.6+ installed on your PC, then clone this repo and run the following commands in a terminal:
 
 ```py
-git clone https://github.com/adarsh-goel/filestreambot-pro
+git clone https://github.com/Thorsaboy/FileStreamBot-pro
 cd filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -177,5 +177,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/adarsh-goel)
+- [Me](https://github.com/Thorsaboy/FileStreamBot-pro)
 - Everyone In This Journey !
