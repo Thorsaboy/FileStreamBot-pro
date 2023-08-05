@@ -21,7 +21,7 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
+    <a href="https://github.com/Thorsaboy/FileStreamBot-pro/pro/issues">Report a Bug</a>
     
     <a href="https://github.com/Thorsaboy/FileStreamBot-pro/issues">Request Feature</a>
   </p>
