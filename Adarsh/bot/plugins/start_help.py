@@ -16,7 +16,7 @@ from pyrogram.types import ReplyKeyboardMarkup
 if MY_PASS:
             buttonz=ReplyKeyboardMarkup(
             [
-                ["start⚡️","help📚","login🔑","DC"],
+                ["start⚡️","login🔑","DC"],
                 ["follow❤️","ping📡","status📊","maintainers😎"]
                         
             ],
@@ -25,7 +25,7 @@ if MY_PASS:
 else:
             buttonz=ReplyKeyboardMarkup(
             [
-                ["start⚡️","help📚","DC"],
+                ["start⚡️","DC"],
                 ["follow❤️","ping📡","status📊","maintainers😎"]
                         
             ],
@@ -128,8 +128,8 @@ async def help_handler(bot, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("💁‍♂️ DEV", url="https://github.com/adarsh-goel")],
-                [InlineKeyboardButton("💥 Source Code", url="https://github.com/adarsh-goel/-pro/")]
+                [InlineKeyboardButton("💁‍♂️ DEV", url="https://github.com/thorsaboy")],
+                [InlineKeyboardButton("💥 Source Code", url="https://github.com/thorsaboy/-pro/")]
             ]
         )
     )
